@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://put101.xyz/</loc>
+    </url>
+    <url>
+        <loc>https://put101.xyz/about/</loc>
+    </url>
+    <url>
+        <loc>https://put101.xyz/example-trade/</loc>
+        <lastmod>2020-06-06</lastmod>
+    </url>
+    <url>
+        <loc>https://put101.xyz/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://put101.xyz/tags/</loc>
+    </url>
+    <url>
+        <loc>https://put101.xyz/tags/other/</loc>
+    </url>
+    <url>
+        <loc>https://put101.xyz/tags/rust/</loc>
+    </url>
+    <url>
+        <loc>https://put101.xyz/what-is-zola/</loc>
+        <lastmod>2020-06-06</lastmod>
+    </url>
+</urlset>
