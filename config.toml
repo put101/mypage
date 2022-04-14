@@ -1,18 +1,23 @@
-# The URL the site will be built for
+title = "P U T 1 0 1"
 base_url = "https://put101.xyz"
+theme = "anpu"
 
-# Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
-# Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
 
 output_dir = "docs"
 
+taxonomies = [
+    { name = "categories" },
+    { name = "tags" },
+]
+
 [markdown]
-# Whether to do syntax highlighting
-# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = false
 
 [extra]
-# Put all your custom variables here
+katex = true
+anpu_menu_links = [
+    { url = "$BASE_URL/about/", name = "About" },
+]
