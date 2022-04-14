@@ -30,7 +30,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 > This is a blockquote
 > with several lines
 
-![Image](/images/trade-3.png) 
+## Trade Setup
+![Image](/images/trade-3.png)
+
+
+## Trade Execution
+![Image](/images/trade-4.png)
+
 
 ## Tables
 
